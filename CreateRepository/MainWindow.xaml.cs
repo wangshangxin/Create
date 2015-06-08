@@ -23,5 +23,8 @@ namespace CreateRepository
         {
             InitializeComponent();
         }
+
+        private void Test()
+        { }
     }
 }
